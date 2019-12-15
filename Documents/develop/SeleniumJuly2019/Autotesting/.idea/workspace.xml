@@ -23,7 +23,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.DoWhileLoo">
+  <component name="RunManager" selected="Application.Nestedforloop">
     <configuration name="DoWhileLoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loop.DoWhileLoo" />
       <module name="Autotesting" />
@@ -104,8 +104,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DoWhileLoo" />
         <item itemvalue="Application.Nestedforloop" />
+        <item itemvalue="Application.DoWhileLoo" />
         <item itemvalue="Application.UseLoop" />
         <item itemvalue="Application.UseStatic" />
         <item itemvalue="Application.GreatestNumber" />
@@ -142,22 +142,22 @@
       <screen x="0" y="23" width="2048" height="1177" />
     </state>
     <state x="700" y="288" key="#UseIfElseIf/0.23.2048.1177@0.23.2048.1177" timestamp="1576376625281" />
-    <state width="2006" height="328" key="GridCell.Tab.0.bottom" timestamp="1576433725991">
+    <state width="2006" height="328" key="GridCell.Tab.0.bottom" timestamp="1576436748267">
       <screen x="0" y="23" width="2048" height="1177" />
     </state>
-    <state width="2006" height="328" key="GridCell.Tab.0.bottom/0.23.2048.1177@0.23.2048.1177" timestamp="1576433725991" />
-    <state width="2006" height="328" key="GridCell.Tab.0.center" timestamp="1576433725990">
+    <state width="2006" height="328" key="GridCell.Tab.0.bottom/0.23.2048.1177@0.23.2048.1177" timestamp="1576436748267" />
+    <state width="2006" height="328" key="GridCell.Tab.0.center" timestamp="1576436748266">
       <screen x="0" y="23" width="2048" height="1177" />
     </state>
-    <state width="2006" height="328" key="GridCell.Tab.0.center/0.23.2048.1177@0.23.2048.1177" timestamp="1576433725990" />
-    <state width="2006" height="328" key="GridCell.Tab.0.left" timestamp="1576433725989">
+    <state width="2006" height="328" key="GridCell.Tab.0.center/0.23.2048.1177@0.23.2048.1177" timestamp="1576436748266" />
+    <state width="2006" height="328" key="GridCell.Tab.0.left" timestamp="1576436748265">
       <screen x="0" y="23" width="2048" height="1177" />
     </state>
-    <state width="2006" height="328" key="GridCell.Tab.0.left/0.23.2048.1177@0.23.2048.1177" timestamp="1576433725989" />
-    <state width="2006" height="328" key="GridCell.Tab.0.right" timestamp="1576433725990">
+    <state width="2006" height="328" key="GridCell.Tab.0.left/0.23.2048.1177@0.23.2048.1177" timestamp="1576436748265" />
+    <state width="2006" height="328" key="GridCell.Tab.0.right" timestamp="1576436748266">
       <screen x="0" y="23" width="2048" height="1177" />
     </state>
-    <state width="2006" height="328" key="GridCell.Tab.0.right/0.23.2048.1177@0.23.2048.1177" timestamp="1576433725990" />
+    <state width="2006" height="328" key="GridCell.Tab.0.right/0.23.2048.1177@0.23.2048.1177" timestamp="1576436748266" />
     <state width="2006" height="405" key="GridCell.Tab.1.bottom" timestamp="1576426093535">
       <screen x="0" y="23" width="2048" height="1177" />
     </state>
@@ -182,5 +182,10 @@
       <screen x="0" y="23" width="2048" height="1177" />
     </state>
     <state x="401" y="234" key="new project wizard/0.23.2048.1177@0.23.2048.1177" timestamp="1576374601502" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Autotesting$Nestedforloop.ic" NAME="Nestedforloop Coverage Results" MODIFIED="1576436748246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>loop.*</FILTER>
+    </SUITE>
   </component>
 </project>
